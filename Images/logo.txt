@@ -1,1 +1,1 @@
-
+Contains the logo for the GUI Chat App
