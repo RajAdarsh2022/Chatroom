@@ -1,2 +1,23 @@
-# Chatroom
-This repository contains the chatroom app developed using python
+The final version of Chat room
+
+Made By - Adarsh raj
+
+
+
+Features--
+
+1- if the client can't connect to server then will pop up error box
+
+2- Has login and sign-up window.
+
+3- Will check for the wrong password and pops up an error box
+
+4- sign up will add the user details to database.xlsx and pops an welcome box
+
+5- After login or sign-up is done then the main chat window opens and the old window withdraws.
+
+6- history of old chats can be seen.
+
+7- active users can be seen
+
+8- messages can be sent and the timestamp of those messages will also be shown.
